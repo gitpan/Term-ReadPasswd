@@ -1,0 +1,8 @@
+History for Term::ReadPasswd
+
+Ver.0.00  2005/12/15
+  - The first release.
+
+Ver.0.01  2005/12/18
+  - The function name ReadPasswd was changed to read_passwd.
+
